@@ -36,6 +36,7 @@ Contrario a lo que muchos piensan, *la comunidad Java de Guatemala es una comuni
 |24|1|
 
 ![Edad graph](./edad.svg)
+<img src="./edad.svg">
 
 ## JVM utilizada en desarrollo
 
@@ -57,6 +58,7 @@ Aca la conclusión es bastante sencilla, a pesar del cambio de licencia de Java 
 |Red Hat OpenJDK|3|
 
 ![JVM Dev](./jvmdev.svg)
+<img src="./jvmdev.svg">
 
 ## JVM utilizada en producción
 
@@ -76,3 +78,4 @@ En línea con la pregunta anterior, la comunidad Guatemalteca sigue prefiriendo 
 |Red Hat OpenJDK|9|
 
 ![JVM Prod](./jvmprod.svg)
+<img src="./jvmprod.svg">
