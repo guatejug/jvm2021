@@ -1,0 +1,9 @@
+.myhgroup > .row {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.myhgroup > .row > .col-xs-4 {
+    display: inline-block;
+    float: none;
+}
